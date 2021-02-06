@@ -16,7 +16,7 @@
     },
     "website": "http://www.github.com/ehsann95",
     "resumedownload": "https://drive.google.com/file/d/134SFzK6-cMk9mSnUDfiaCIt6X6kHf7_H/view?usp=sharing",
-    "message": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "message": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the     form below if you'd like to get in contact with me.",
     "social": [
       {
         "name": "facebook",
@@ -61,7 +61,7 @@
         "company": "NOQOD",
         "title": "Frontend Developer / React Developer",
         "years": "Nov 2020 - Present",
-        "description": "I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with Apollo GraphQL, as well as built new node-based servers for new products. As well, I worked on a mobile application written in React Native. I have worked extensively with React as well as with react hooks. "
+        "description": "Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with GraphQL. As well, I worked on a mobile application written in React Native. I have worked extensively with React as well as with react hooks. "
       },
       {
         "company": "Algospark",
@@ -86,6 +86,10 @@
         "level": "80%"
       },
       {
+        "name": "React Native",
+        "level": "60%"
+      },
+      {
         "name": "HTML5",
         "level": "90%"
       },
@@ -100,11 +104,8 @@
       {
         "name": "Git",
         "level": "60%"
-      },
-      {
-        "name": "React Native",
-        "level": "60%"
       }
+      
     ]
   },
   "portfolio": {
