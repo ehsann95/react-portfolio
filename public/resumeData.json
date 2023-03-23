@@ -15,7 +15,7 @@
       "zip": "190001"
     },
     "website": "http://www.github.com/ehsann95",
-    "resumedownload": "https://drive.google.com/file/d/134SFzK6-cMk9mSnUDfiaCIt6X6kHf7_H/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1F4C4l1ofYOe21b-Ap9dJye_MfLFqCak8/view?usp=sharing",
     "message": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the     form below if you'd like to get in contact with me.",
     "social": [
       {
@@ -58,9 +58,15 @@
     ],
     "work": [
       {
+        "company": "Axelerant",
+        "title": "Frontend Engineer",
+        "years": "May 2021 - Present",
+        "description": "As a Frontend Developer at Axelerant, I was responsible for developing and maintaining the client-side of web applications. I worked closely with the UX/UI team to ensure that designs were implemented accurately and with a high degree of fidelity. My duties included writing clean, modular, and well-documented code using HTML, CSS, and JavaScript frameworks like React. Additionally, I collaborated with the backend development team to ensure seamless integration between the frontend and backend components of the application. Finally, I was responsible for testing and debugging my code to ensure that it was free of errors and performed optimally across various devices and platforms."
+      },
+      {
         "company": "NOQOD",
         "title": "Frontend Developer / React Developer",
-        "years": "Nov 2020 - Present",
+        "years": "Nov 2020 - April 2021",
         "description": "Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with GraphQL. As well, I worked on a mobile application written in React Native. I have worked extensively with React as well as with react hooks. "
       },
       {
@@ -68,48 +74,63 @@
         "title": "Software Engineer && React Specialist",
         "years": "May 2019 - Mar 2020",
         "description": "For most of my time at Algospark, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with Apollo GraphQL, as well as built new node-based servers for new products. As well, I worked on a mobile application written in React Native. I have worked extensively with React as well as with react hooks. "
-      },
-      {
-        "company": "Logic Hubs",
-        "title": "Web Developer",
-        "years": "Jan 2018 - Jan 2019",
-        "description": "Build many websites for local clients."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "70%"
       },
       {
-        "name": "Javascript",
-        "level": "80%"
-      },
-      {
-        "name": "React Native",
+        "name": "NEXTJS",
         "level": "60%"
       },
       {
-        "name": "HTML5",
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "React Native",
+        "level": "40%"
+      },
+      {
+        "name": "HTML5 & CSS",
         "level": "90%"
       },
       {
-        "name": "CSS",
-        "level": "75%"
-      },
-      {
-        "name": "Bootstrap",
-        "level": "90%"
+        "name": "Tailwind",
+        "level": "65%"
       },
       {
         "name": "Git",
         "level": "60%"
+      },
+      {
+        "name": "Drupal",
+        "level": "75%"
       }
-      
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Univerity Website",
+        "category": "Website for Georgia University",
+        "image": "ggc.png",
+        "url": "https://www.ggc.edu"
+      },
+      {
+        "title": "An Academic & Research Institution in the U.S",
+        "category": "Website for an News Institution",
+        "image": "ewc.png",
+        "url": "https://www.eastwestcenter.org/"
+      },
+      {
+        "title": "NOQOD",
+        "category": "A service provider instituted with an impetus of revolutionising digital payments in African countries",
+        "image": "noqod.png",
+        "url": "https://noqod.com.sd/"
+      },
       {
         "title": "Facebook Clone with React",
         "category": "Facebook Clone built with ReactJS",
@@ -120,25 +141,25 @@
         "title": "Github Finder",
         "category": "Searches Github users",
         "image": "githun.jpeg",
-        "url": "https://www.github.com"
+        "url": "https://www.github.com/ehsann95"
       },
       {
         "title": "Random Qoute Generator",
         "category": "Displays random Quotes fetched from an API",
         "image": "quote.jpeg",
-        "url": "https://www.github.com"
+        "url": "https://www.github.com/ehsann95"
       },
       {
         "title": "Space X Launches",
         "category": "This app shows all SpaceX launch missions",
         "image": "spacex.jpeg",
-        "url": "https://www.github.com"
+        "url": "https://www.github.com/ehsann95"
       },
       {
         "title": "Bootstrap theme",
         "category": "Fully Responsive Bootstrap theme",
         "image": "Bootstrap.png",
-        "url": "https://www.github.com"
+        "url": "https://www.github.com/ehsann95"
       }
     ]
   },
